@@ -1,6 +1,6 @@
 [submodule "NAT-Diffuser"]
 	path = NAT-Diffuser
 	url = https://github.com/justin4ai/NAT-Diffuser.git
-[submodule "FID-Transformer"]
-	path = FID-Transformer
-	url = https://github.com/justin4ai/FID-Transformer.git
+[submodule "FID-FID"]
+	path = FID-FID
+	url = https://github.com/justin4ai/FID-FID
