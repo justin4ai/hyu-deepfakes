@@ -1,7 +1,7 @@
 # hyu-deepfakes
 
 <p align="center">
-    <img src="assets/hyu-deepfakes-thumbnail.png" alt="Alt text" width="800">
+    <img src="assets/hyu-deepfakes-thumbnail.png" alt="Alt text" width="600">
 </p>
 
 <div align="center">
