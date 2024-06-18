@@ -10,8 +10,8 @@
 
 
 <div align="center">
-    <a href="">Report(coming soon)</a> | 
-    <a href="">PPT(Google Drive)</a>
+    Report(coming soon) | 
+    <a href="https://drive.google.com/drive/folders/1Rv1AE6oXEGKxbhQbIYhSB1mW32xCjkSO?usp=sharing">PPT(Google Drive)</a>
 </div>
 
 ## NAT-Diffuser
@@ -29,6 +29,12 @@
 </p>
 
 ## FID-FID
+
+### FID-FID : Fake Image Detector Meets Frequency - Image Dual domain
+
+<p align="center">
+    <img src="assets/FID-FID.jpg" alt="Alt text" width="400">
+</p>
 
 ## Citation
 
