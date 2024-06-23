@@ -16,7 +16,7 @@
 
 ## NAT-Diffuser
 
-### NAT-Diffuser : Discrete Absorbing Diffusion Meets Neighborhood Attnetion Transformers at Vector-Quantized Space
+### NAT-Diffuser : Discrete Absorbing Diffusion Meets Neighborhood Attention Transformers at Vector-Quantized Space
 <p align="center">
     <img src="assets/NAT-Diffuser-logo.png" alt="Alt text" width="350">
 </p>
@@ -30,7 +30,7 @@
 
 ## FID-FID
 
-### FID-FID : Fake Image Detector Meets Frequency - Image Dual domain
+### FID-FID : Fake Image Detector Meets Frequency - Image Dual Domain
 
 <p align="center">
     <img src="assets/FID-FID.jpg" alt="Alt text" width="400">
